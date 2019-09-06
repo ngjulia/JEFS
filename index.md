@@ -8,6 +8,7 @@ _Group 17_
 
 Members: Julia Ng, Eric Ma, Sabrina Herman, Fareeza Hasan
 
+#### [Team Contract](https://github.com/ngjulia/trial2/blob/master/TEAM%20CONTRACT%20(signed).pdf)
 
 ### LAB 1
 
