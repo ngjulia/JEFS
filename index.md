@@ -8,8 +8,6 @@ _Group 17_
 
 Members: Julia Ng, Eric Ma, Sabrina Herman, Fareeza Hasan
 
-[Link to another page](./another-page.html).
-
 
 # LAB 1
 
