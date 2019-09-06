@@ -2,17 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**ECE 3400**
+
+_Group 17_
+
+Members: Julia Ng, Eric Ma, Sabrina Herman, Fareeza Hasan
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# LAB 1
 
-# Header 1
+Microcontrollers
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[9/04/19](./another-page.html).
 
 ## Header 2
 
