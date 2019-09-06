@@ -13,7 +13,7 @@ Members: Julia Ng, Eric Ma, Sabrina Herman, Fareeza Hasan
 
 Microcontrollers
 
-[9/04/19](./another-page.html).
+[9/04/19](./09.04.19.html).
 
 ## Header 2
 
