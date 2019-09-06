@@ -2,14 +2,14 @@
 layout: default
 ---
 
-**ECE 3400**
+# ECE 3400
 
 _Group 17_
 
 Members: Julia Ng, Eric Ma, Sabrina Herman, Fareeza Hasan
 
 
-# LAB 1
+### LAB 1
 
 Microcontrollers
 
