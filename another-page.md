@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## 9/04/19
 
-_yay_
+## Communicating between the Uno and IDE
 
 [back](./)
